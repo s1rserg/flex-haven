@@ -7,7 +7,7 @@ import org.apache.flink.streaming.api.environment.StreamExecutionEnvironment;
 import org.apache.flink.util.Collector;
 import org.json.JSONObject;
 
-public class AdvancedAirbnbStreamProcessing {
+public class AdvancedFlexHavenStreamProcessing {
     public static void main(String[] args) throws Exception {
         // Create the execution environment
         StreamExecutionEnvironment env = StreamExecutionEnvironment.getExecutionEnvironment();

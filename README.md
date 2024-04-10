@@ -1,4 +1,4 @@
-# Airbnb-like Platform Stream Processing with Apache Flink
+# Platform for short-term rental housing Stream Processing with Apache Flink
 This code demonstrates a stream processing pipeline for an Airbnb-like booking platform using Apache Flink.
 
 ## Overview
